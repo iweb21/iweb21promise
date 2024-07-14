@@ -1,0 +1,23 @@
+{
+  "name": "iweb21promise",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "module",
+  "bin": {
+    "promise": "main.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^10.0.1",
+    "iweb21promise": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.10"
+  },
+  "description": ""
+}
